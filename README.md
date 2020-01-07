@@ -6,8 +6,8 @@
 
 
 1. 准备好 JAVA,  IntelliJ IDEA
-2.  从[Antlr4 官网](http://www.antlr.org/tools.html)下载jar包，并导入到IDEA
-3. 在IDEA中安装 ANTLR v4 grammar plugin
+2. 从[Antlr4 官网](http://www.antlr.org/tools.html)下载 jar 包，并导入到IDEA
+3. IDEA -> File -> Settings -> Plugins 安装 ANTLR v4 grammar plugin
 
 ### 函数绘图语言
 
