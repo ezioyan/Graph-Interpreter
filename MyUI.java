@@ -5,8 +5,8 @@ public class MyUI extends JFrame implements BaseUI {
     private Graphics g;
 
     MyUI() {
-        JFrame frame = new JFrame("16130188018ysm");
-        frame.setSize(1000,1000);
+        JFrame frame = new JFrame("ezio");
+        frame.setSize(500,400);
         frame.setVisible(true);
         g = frame.getGraphics();
     }
